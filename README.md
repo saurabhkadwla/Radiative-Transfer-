@@ -2,7 +2,7 @@
 # Radiative Transfer — Course Assignments
 
 This repository contains assignment solutions for the **Radiative Transfer** course I took at **IISc Bangalore**.  
-The course was taught by Kartic C. Sarkar.
+The course was taught by Kartick C. Sarkar.
 
 The repository includes:
 - Colab / Jupyter notebooks with worked solutions and plots,
