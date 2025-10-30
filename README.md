@@ -145,7 +145,7 @@ $$
 f_0=\Big(1+\sum_{i=1}^{N}\prod_{k=0}^{i-1}\frac{\xi_k}{\alpha_{k+1}}\Big)^{-1}.
 $$
 
-
+![carbon](1st_que.png)
 
 
 ---
