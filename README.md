@@ -18,6 +18,8 @@ $$\tau_{\nu}(s)=\int_{s_0}^{s}\kappa_{\nu}(s')\,ds'$$
 
 Formal solution along a ray (impact parameter $b$):
 
+![Sphere](ass_2.png)
+
 $$
 I_{\nu}(b)=I_{\nu}^{\rm in} e^{-\tau_{\nu,\rm tot}(b)}+\int_{\text{chord}} S_{\nu}(s)\,e^{-[\tau_{\nu}(s_{\rm out})-\tau_{\nu}(s)]}\,\kappa_{\nu}(s)\,ds,
 $$
@@ -50,6 +52,7 @@ If linear scale increases by factor $(1+\beta)$ then photon energies scale $\pro
 $$u\propto(1+\beta)^{-4}\Rightarrow T_f=\frac{T_i}{1+\beta}.$$
 
 ![Intensity variation](Intensity_variation.png)
+![Temperature variation](Temperature_variation.png)
 
 ---
 
