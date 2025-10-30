@@ -2,43 +2,9 @@
 # Radiative Transfer — Course Assignments
 
 This repository contains assignment solutions for the **Radiative Transfer** course I took at **IISc Bangalore**.
-The course was taught by Kartick C. Sarkar.
+The course was taught by Kartick C. Sarkar
 
-## Methodology — Key physics & main equations (concise)
-
-### Assignment 1 — Radiative transfer through a spherical cloud & adiabatic sphere
-- Radiative transfer equation:
-  ```math
-  \frac{dI_\nu}{ds} = -\kappa_\nu I_\nu + j_\nu
-  
-Formal solution along a chord (impact parameter $b$):
-
-$$I_\nu(b) = I_{\nu, \text{in}} \exp(-\tau_{\text{tot}}(b)) + \int_{\text{chord}} S_\nu(s) \exp[-(\tau(s_{\text{out}})-\tau(s))] \kappa_\nu(s) ds$$
-  
-### Assignment 2 — Strömgren sphere (smooth edge) & ionization balance
-
-- Neutral fraction: $x(r) = \frac{n_{H_0}}{n_H}$ 
--  ionized fraction $y(r) = 1 - x(r)$
-- Frequency-dependent optical depth:
-
-  $$\tau_{\nu}(r) = n_H ∫_0^r x(r') \sigma_{\nu} dr'$$
-
-
-- Attenuated specific flux:
-
-  $$F_{\nu}(r) = \frac{L_{\nu}}{(4 \pi r^2)}exp(-\tau_{\nu}(r))$$
-
-  where $L_{\nu}(r) = 4 pi^2 R_{star}^2 B_{\nu}(T_{star})$
-
-
-
-- Photoionization rate per neutral atom:
-
-  $$\Gamma(r) = ∫_{\nu_0}^{∞} [ F_{\nu}(r) / (h {\nu}) ] \sigma_{\nu} d\nu$$
-
-
-
-# Methodology — Key equations (concise)
+# Methodology — Key equations 
 
 ## Assignment 1 — Radiative transfer through a spherical cloud & adiabatic sphere
 
