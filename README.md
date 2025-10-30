@@ -49,6 +49,8 @@ If linear scale increases by factor $(1+\beta)$ then photon energies scale $\pro
 
 $$u\propto(1+\beta)^{-4}\Rightarrow T_f=\frac{T_i}{1+\beta}.$$
 
+![Intensity variation](Intensity_variation.png)
+
 ---
 
 ## Assignment 2 — Strömgren sphere (smooth edge) & ionization balance
@@ -141,9 +143,8 @@ f_0=\Big(1+\sum_{i=1}^{N}\prod_{k=0}^{i-1}\frac{\xi_k}{\alpha_{k+1}}\Big)^{-1}.
 $$
 
 
-figures/
 
-    Intensity_variation.png
+
 ---
 
 
