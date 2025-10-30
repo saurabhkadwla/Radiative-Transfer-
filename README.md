@@ -103,7 +103,7 @@ $$
 \alpha_B=2.56\times10^{-13}\,T_4^{-0.82}\ \mathrm{cm^3\,s^{-1}},
 $$
 
-with $T_4=T_s/10^4$ and $T_s=1.5\times10^4\,$K.
+with $T_4=T_s/10^4$ and  $T_s=1.5\times10^4\,$K.
 
 **Reference Strömgren radius**
 
@@ -117,6 +117,9 @@ $$
 $$
 F_{\rm band}(r)\simeq\int_{E_1}^{E_2} F_E(r)\,dE \approx \sum_{E_j\in[13.6,20]\,{\rm eV}} F_{E_j}(r)\,\Delta E_j.
 $$
+
+![h fraction](h_fracs.png)
+![nu fnu](nu_F_nu.png)
 
 ---
 
